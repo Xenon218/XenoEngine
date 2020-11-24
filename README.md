@@ -1,2 +1,2 @@
 # XenoEngine
-C++ 2D Engine in development
+C++ 2D Engine based on SDL in development
